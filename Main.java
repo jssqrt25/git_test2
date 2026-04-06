@@ -8,9 +8,9 @@ public class Main {
 
     public static void main(String[] args) { 
 
-        Hello h = new Hello(); 
+        Hello hello = new Hello(); 
 
-        h.say(); 
+        hello.say(); 
 
     } 
 
