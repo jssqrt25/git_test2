@@ -10,7 +10,7 @@ public class Main {
 
         Hello hello = new Hello(); 
 
-        hello.say(); 
+        System.out.println(hello.say()); 
 
     } 
 

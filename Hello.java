@@ -10,9 +10,9 @@ public class Hello {
 
  
 
-    public void say() { 
+    public String say() { 
 
-        System.out.println(message); 
+        return message; 
 
     } 
 
